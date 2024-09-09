@@ -155,5 +155,6 @@
     "M2113": "rust",
     "M2114": "scrypt",
     "M2116": "settlement",
-    "M2115": "security"
+    "M2115": "security",
+    "M2117": "shard"
 }
