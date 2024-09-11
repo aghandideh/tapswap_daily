@@ -156,5 +156,6 @@
     "M2114": "scrypt",
     "M2116": "settlement",
     "M2115": "security",
-    "M2117": "shard"
+    "M2117": "shard",
+    "M2119": "taproot"
 }
