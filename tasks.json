@@ -164,5 +164,7 @@
     "M2122": "short",
     "M2123": "sidechain",
     "M2124": "signal",
-    "M2125": "slashing"
+    "M2125": "slashing",
+    "M2126": "slippage",
+    "M2127": "snapshot"
 }
